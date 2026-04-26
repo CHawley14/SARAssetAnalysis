@@ -1,14 +1,13 @@
 # SAR Asset Analysis 
 Search and Rescue (SAR) Asset Analysis
 
-![65][def]
 <img src="./images/MH-65.png" alt="Alt Text">
 
 ## Abstract 
 
 The U.S. Coast Guard (USCG) is responsible for maritime Search and Rescue (SAR) along the coast, Great Lakes, and all navigable waterways. The USCG is slowly shifting from a mixed helicopter fleet of MH-65s and MH-60s, to a consolidated single platform fleet of MH-60s due to sustainability issues with the aging MH-65s. This analysis focuses on the USCG Air Stations with helicopters located along the contiguous west coast of the U.S. and the benefits of this asset shift to residents and maritime adventurers. The analysis explores three key areas: range, response time, and the ability to remain on scene for an extended period of time (loiter time). 
 
-![units](.\output\figures\units.png)
+<img src="./output/figures/units.png" alt="Alt Text">
 
 ## Inputs
 
@@ -23,7 +22,7 @@ Manually Obtained Census Shapefiles:
 * cb_2024_us_county_500k
 
 **Bay Area Waterways**
-![Bay](images\Bay_Area_Waterways.png) 
+<img src="./images/Bay_Area_Waterways.png" alt="Alt Text"> 
 
 
 
@@ -71,23 +70,21 @@ There is also a folder called "images" that contains images of the MH-65 and MH-
 ### Maximum Range
 The USCG's shift from a mixed fleet of MH-65s and MH-60s, to all MH-60s increases the amount of area that can be covered by 26% when accounting for maximum range capabilities. The MH-60 has a longer endurance time than MH-65s because it is larger and can carry more fuel, which increases its maximum range. The area covered by two air stations increases 20%, from 57% at present to 77% in the future.
 
-![Range](images\Future_Maximum_Range.png)
+<img src="./images/Future_Maximum_Range.png" alt="Alt Text">
 
 ### Response Time Range
 Looking at the USCG's requirements for response time and each helicopters capabilities, the response time area coverage increased by 23% from the present to the future. The MH-60 is slightly faster than the MH-65 and its range is not as restricted by fuel. The area covered by two air stations increases by 12%, from 52% at present to 64% in the future.
 
-![Response](images\Future_Response.png)
+<img src="./images/Future_Response.png" alt="Alt Text">
 
 ### 30 Minute Loiter Range
 Finally, this shift further increases the USCG's SAR capabilities supporting its capacity to search or remain on scene longer to hoist people or deploy equipment to distressed mariners. Area coverage in a 30 minute loiter scenario increases by 36% from present to the future. Additionally, the area covered by two air stations, or "dual coverage", increases by 28%, from 44% at present to 72% in the future.
 
-![Loiter](images\Future_Loiter.png)
+<img src="./images/Future_Loiter.png" alt="Alt Text" >
 
-![graph](output\figures\30_Min_Loiter.png)
+<img src="./output/figures/Dual_Area_30_Min_Loiter.png" alt="Alt Text">
 
 ### Conclusion
 In conclusion, the U.S. Coast Guard's shift from a mixed helicopter fleet to a single helicopter fleet of MH-60s is very beneficial to the public. The coverage area and overlapping coverage from two air stations increases as this change occurs, increasing SAR capabilities for maritime response. 
 
-![60](images\MH-60.png)
-
-[def]: images\MH-65.png
+<img src="./images/MH-60.png" alt="Alt Text">
