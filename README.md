@@ -1,7 +1,7 @@
 # SAR Asset Analysis 
 Search and Rescue (SAR) Asset Analysis
 
-![65](images\MH-65.png)
+![65][def]
 <img src="./images/MH-65.png" alt="Alt Text">
 
 ## Abstract 
@@ -89,3 +89,5 @@ Finally, this shift further increases the USCG's SAR capabilities supporting its
 In conclusion, the U.S. Coast Guard's shift from a mixed helicopter fleet to a single helicopter fleet of MH-60s is very beneficial to the public. The coverage area and overlapping coverage from two air stations increases as this change occurs, increasing SAR capabilities for maritime response. 
 
 ![60](images\MH-60.png)
+
+[def]: images\MH-65.png
