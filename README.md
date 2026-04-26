@@ -1,13 +1,13 @@
 # SAR Asset Analysis 
 Search and Rescue (SAR) Asset Analysis
 
-![65](images\MH-65.png)
+![65](.\images\MH-65.png)
 
 ## Abstract 
 
 The U.S. Coast Guard (USCG) is responsible for maritime Search and Rescue (SAR) along the coast, Great Lakes, and all navigable waterways. The USCG is slowly shifting from a mixed helicopter fleet of MH-65s and MH-60s, to a consolidated single platform fleet of MH-60s due to sustainability issues with the aging MH-65s. This analysis focuses on the USCG Air Stations with helicopters located along the contiguous west coast of the U.S. and the benefits of this asset shift to residents and maritime adventurers. The analysis explores three key areas: range, response time, and the ability to remain on scene for an extended period of time (loiter time). 
 
-![units](/output\figures\units.png)
+![units](.\output\figures\units.png)
 
 ## Inputs
 
